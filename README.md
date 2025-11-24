@@ -75,7 +75,7 @@ A complete, production-ready ATS built with pure PHP and MySQL. Designed for sca
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/splashrecruit.git
+git clone https://github.com/ahmedsaadawi13/splashrecruit.git
 cd splashrecruit
 ```
 
