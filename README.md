@@ -590,8 +590,8 @@ Potential features for future versions:
 
 For issues, questions, or contributions:
 
-- **Issues:** https://github.com/yourusername/splashrecruit/issues
-- **Email:** support@splashrecruit.com
+- **Issues:** https://github.com/ahmedsaadawi13/splashrecruit/issues
+- **Email:** ahmed.sha3ban13@gmail.com
 - **Documentation:** https://docs.splashrecruit.com
 
 ---
